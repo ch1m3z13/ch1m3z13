@@ -12,8 +12,8 @@ Experienced Software Engineer with a Bachelor's degree in Cybersecurity Science 
 
 ## PROFESSIONAL EXPERIENCE
 
-### **Senior Software Engineer – Full-Stack Development** | March 2026 – Present
-**Label Scanner Project** (OrionLabsTest Organization)
+### **Senior Software Engineer – Full-Stack Development** | Astromedia Integrated Services Limited
+**February 2026 – Present**
 
 Leading development of a sophisticated product verification and label analysis platform leveraging advanced AI/ML and image processing technologies.
 
@@ -128,7 +128,7 @@ Federal University of Technology, Minna | *Graduated 2023*
 
 ## KEY ACHIEVEMENTS & CONTRIBUTIONS
 
-### **Label Scanner Project** (Current)
+### **Label Scanner Project** (Current – Astromedia Integrated Services Limited)
 ✅ Architected full-stack production system with AI/ML integration  
 ✅ Achieved 95% accuracy in intelligent product ingredient detection  
 ✅ Led cross-functional team development with 25+ PR reviews  
@@ -163,7 +163,9 @@ Federal University of Technology, Minna | *Graduated 2023*
 ## NOTABLE PROJECTS
 
 ### **Label Scanner** | Full-Stack AI/ML Product Verification Platform
+- **Company**: Astromedia Integrated Services Limited
 - **Role**: Lead Full-Stack Engineer
+- **Duration**: February 2026 – Present
 - **Tech**: React, TypeScript, Express, PostgreSQL, Google Cloud APIs, Python ML
 - **Impact**: 95% accuracy in ingredient detection; Production-grade system; Team leadership
 
