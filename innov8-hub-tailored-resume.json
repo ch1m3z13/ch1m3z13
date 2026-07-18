@@ -1,0 +1,120 @@
+{
+  "candidate_level": "mid_level",
+  "target_role": "Full-Stack Software Engineer (Cloud, DevOps)",
+  "target_company": "Innov8 Hub",
+  "section_order": ["header", "summary", "experience", "skills", "projects", "education"],
+  "header": {
+    "name": "Odo Precious Chimezie",
+    "email": "odoch1m3z13@gmail.com",
+    "phone": "",
+    "location": "Abuja, Nigeria",
+    "linkedin": "https://linkedin.com/in/precious-odo-5494a7297",
+    "github": "",
+    "website": ""
+  },
+  "summary": "Full-Stack Software Engineer with 4+ years building production-grade cloud-native applications, scalable backends, and DevOps infrastructure. Proven expertise architecting systems combining React/TypeScript frontends with robust Express/Node.js backends, PostgreSQL databases, and automated CI/CD pipelines using GitHub Actions. Strong hands-on experience optimizing cloud deployments on AWS and GCP, implementing Docker containerization, and Linux server administration. Demonstrated success reducing operational costs through database tuning (25% improvement), infrastructure optimization (15% cost reduction), and deployment automation (60% faster cycles). Passionate about building reliable, maintainable systems for high-growth environments.",
+  "experience": [
+    {
+      "title": "Senior Software Engineer – Full-Stack Development",
+      "company": "Astromedia Integrated Services Limited",
+      "location": "Remote/Lagos",
+      "dates": "Feb 2026 – Present",
+      "bullets": [
+        "Architected production-grade full-stack system combining React/TypeScript frontend with Express/PostgreSQL backend and Python ML pipelines, ensuring 99%+ uptime and horizontal scalability.",
+        "Designed and deployed scalable cloud infrastructure on GCP and Railway using Infrastructure-as-Code principles, implementing automated CI/CD pipelines that reduced deployment time by 60%.",
+        "Implemented GitHub Actions CI/CD workflows automating build, test, and deployment cycles; added comprehensive error handling and monitoring reducing production incidents by 40%.",
+        "Optimized PostgreSQL queries and implemented intelligent caching strategies, reducing backend response times by 25% and cutting infrastructure costs by 15%.",
+        "Containerized full-stack applications using Docker and Docker Compose, ensuring consistency across development, staging, and production environments.",
+        "Led peer code review process for 25+ pull requests; coordinated concurrent feature development across multi-member team, establishing quality gates for production deployment."
+      ],
+      "links": []
+    },
+    {
+      "title": "Software Engineer – Embedded Fans",
+      "company": "Embedded Fans Ltd",
+      "location": "Remote",
+      "dates": "May 2024 – Present",
+      "bullets": [
+        "Managed Linux server administration, shell scripting, and troubleshooting; implemented automated deployment scripts reducing manual ops work.",
+        "Engineered IoT-based smart home systems using Tuya SDKs with encrypted communication channels and secure firmware update mechanisms.",
+        "Integrated surveillance and vehicle tracking systems with cloud services improving reliability and monitoring accuracy."
+      ],
+      "links": []
+    },
+    {
+      "title": "Software Engineer (Web Technologies)",
+      "company": "Intellectual Apps Ltd",
+      "location": "Lagos",
+      "dates": "Jul 2020 – May 2024",
+      "bullets": [
+        "Designed and implemented RESTful API endpoints using Java EE, handling complex payroll data queries with sub-100ms response times.",
+        "Optimized MySQL and PostgreSQL queries reducing query execution times by 30%, improving overall system throughput.",
+        "Built production email notification system integrating SendGrid API with secure credential management using environment variables and secrets management best practices.",
+        "Implemented secure credential handling for third-party API keys, removed hardcoded secrets, and applied OWASP Top 10 principles across backend services.",
+        "Participated in structured peer code review with senior developers, implementing architectural feedback on naming conventions, security practices, and design patterns."
+      ],
+      "links": []
+    },
+    {
+      "title": "Software Engineer",
+      "company": "Paritie Dynamic Enterprise",
+      "location": "Lagos",
+      "dates": "Oct 2020 – Jul 2023",
+      "bullets": [
+        "Designed and delivered custom enterprise software solutions across healthcare and finance sectors using Java EE backends and secure coding practices.",
+        "Conducted code reviews, refactored legacy systems, and introduced design patterns (Factory, Observer, Singleton) for improved maintainability.",
+        "Applied OWASP Top 10 principles and performed penetration testing ensuring compliance with industry security standards."
+      ],
+      "links": []
+    }
+  ],
+  "skills": {
+    "core": ["TypeScript", "JavaScript", "React 19", "Node.js", "Express.js", "Python", "Java", "PostgreSQL", "MySQL"],
+    "devops_cloud": ["AWS (EC2, S3, RDS, Lambda)", "Google Cloud Platform (GCP)", "Docker", "Docker Compose", "Kubernetes (exposure)", "GitHub Actions", "GitLab CI/CD", "Bash/Shell Scripting"],
+    "tools": ["Vite", "Tailwind CSS", "TypeORM", "Gradle", "SendGrid API", "Bitbucket"],
+    "methods": ["REST API Design", "Database Query Optimization", "CI/CD Pipeline Design", "Infrastructure-as-Code", "Security Best Practices", "Performance Optimization"]
+  },
+  "projects": [
+    {
+      "name": "Label Scanner Platform",
+      "subtitle": "Full-Stack AI/ML Product Verification System",
+      "location": "",
+      "dates": "Feb 2026 – Present",
+      "bullets": [
+        "Production-grade system achieving 95% accuracy in intelligent product analysis using Google Cloud Vision API.",
+        "Reduced backend response times by 25% through query optimization and caching; optimized infrastructure costs by 15%.",
+        "Team leadership on concurrent feature development with 25+ code reviews and architectural decisions."
+      ],
+      "url": ""
+    },
+    {
+      "name": "Web3 Bots and Farcaster Mini-Apps",
+      "subtitle": "Decentralized Applications",
+      "location": "",
+      "dates": "2024 – Present",
+      "bullets": [
+        "Designed and deployed multiple Farcaster mini-apps and Web3 bots integrating X API and Farcaster with hybrid automation.",
+        "Applied modern CI/CD principles and GitHub Actions automation for reliable production deployments.",
+        "Contributed to open-source blockchain projects (Scaffold-ETH, Hardhat, wagmi, ethers.js)."
+      ],
+      "url": ""
+    }
+  ],
+  "education": [
+    {
+      "school": "Federal University of Technology",
+      "location": "Minna, Nigeria",
+      "dates": "2019 – 2023",
+      "degree": "Bachelor's Degree in Cyber Security Science",
+      "details": []
+    }
+  ],
+  "certifications": [],
+  "awards": [],
+  "metadata": {
+    "page_target": "two_page",
+    "tone": "technical",
+    "ats_focus": true,
+    "humanization_pass_complete": true
+  }
+}
