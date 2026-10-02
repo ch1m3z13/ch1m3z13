@@ -1,55 +1,56 @@
-# Hi, I'm Odo Precious Chimezie
+# Odo Precious Chimezie
 
-**Software Engineer**
+**Backend-focused software engineer** · Abuja, Nigeria
+TypeScript · Java · Python · Rust · PostgreSQL · Web3 · Security
 
-I specialize in building secure, scalable financial platforms and Web3 applications. I have deep expertise in bank-grade architecture, regulatory compliance, and decentralized systems. My work spans full-stack development with a focus on security, data integrity, and operational excellence.
-
----
-
-## Technologies & Tools
-
-- **Languages:** Java, TypeScript, Solidity, Python, Go, Rust, Kotlin, Swift
-- **Mobile Development:** Flutter, Native iOS (Swift), Native Android (Kotlin)
-- **Web3 & Blockchain:** Hardhat, Foundry, Scaffold-ETH, Ethers.js, wagmi
-- **Backend & Frameworks:** Java EE, Spring Boot, Next.js, React
-- **Databases & Caching:** PostgreSQL, Redis
-- **Infrastructure & DevOps:** Docker, Kubernetes, GitHub Actions, CI/CD, AWS, Google Cloud, Linux
-- **Security & Compliance:** TLS/SSL, hardware security modules, role-based access control, audit logging, ACID transaction design
-- **APIs & Integration:** Keycloak, Auth0, Kong, Cloudflare, microservices architecture
-- **Automation & Bots:** Farcaster protocol integrations, X API automation, hybrid posting strategies
+I build secure, reliable backend systems: REST APIs, ledgers and data pipelines, cloud deployments, and the CI/CD around them. My background is in cybersecurity, so I design for data integrity, access control and auditability from the start. I also build Web3 applications and contribute to open-source Ethereum tooling.
 
 ---
 
-## Highlighted Projects
+## Selected work
 
-- **SuperBridge** – A bank-grade financial platform architected for regulatory compliance, including core backend microservices, PostgreSQL ledger systems, native mobile applications (Swift/Kotlin and Flutter), hardware-backed security, and full CBN mandate and NDPA 2023 compliance infrastructure. Features a commission distribution engine, transaction reconciliation systems, and audit trails for financial operations.
+**SuperBridge** · Java EE / Spring Boot · PostgreSQL · Swift · Kotlin · Flutter
+A financial platform architected around regulatory requirements (CBN mandates, NDPA 2023). Core backend microservices, a PostgreSQL ledger, a commission-distribution engine, transaction reconciliation, audit trails for financial operations, and native mobile apps with hardware-backed security.
 
-- **Farcaster Mini-Apps** – Educational and engagement tools built on decentralized social protocols, exploring innovations in protocol-driven applications.
+**[beadapp](https://github.com/ch1m3z13/beadapp)** · Next.js · TypeScript · Solidity · Farcaster
+A Farcaster mini-app with on-chain contracts. [Live demo](https://beadapp.vercel.app/frame).
 
-- **Web3 Automation & Bots** – Automated cryptocurrency posting bots with hybrid strategies spanning X and Farcaster, demonstrating cross-chain interoperability and real-time data handling.
+**Web3 automation bots** · TypeScript
+Bots that combine real-time data streams across the X API and Farcaster, with hybrid posting strategies.
 
-- **Scheduling & Booking Platform** – Java EE backend powering a barber and salon management system with appointment scheduling and customer management capabilities.
+**Booking and scheduling platform** · Java EE
+Backend for a barber and salon system: appointment scheduling, staff coordination and customer management.
 
-- **Open Source Contributions** – Active contributor to Web3 repositories including Scaffold-ETH and Ethereum protocol tooling.
-
----
-
-## What I'm Working On
-
-- Advancing **SuperBridge** with additional microservices and expanded financial product offerings.
-- Developing robust **Flutter applications** for cross-platform mobile deployment with hardware security integration.
-- Building and maintaining **blockchain infrastructure** tools with focus on Rust-based performance optimization.
-- Expanding **Farcaster protocol** integrations and exploring emerging Web3 standards.
-- Contributing to **open-source Web3 projects** that advance decentralization and financial inclusion.
+**Open source**
+Contributions to Scaffold-ETH and other Ethereum tooling (Hardhat, Wagmi, Ethers.js).
 
 ---
 
-## Connect With Me
+## Tech
 
-- [LinkedIn](https://www.linkedin.com/in/precious-odo-5494a7297)
-- [Twitter](https://x.com/odoch1m3z13)
-- [Farcaster](https://farcaster.xyz/ch1m3z13)
+**Languages:** TypeScript, JavaScript, Java, Python, Rust, Solidity
+**Backend:** Node.js, Express, Java EE, Spring Boot, REST, GraphQL, microservices
+**Data:** PostgreSQL, MySQL, Redis, TypeORM, query optimization
+**Infra:** Docker, GitHub Actions (CI/CD), GCP, AWS, Railway, Vercel, Linux
+**Security:** JWT/RBAC, TLS, audit logging, ACID transaction design, OWASP Top 10, penetration testing
+**Web3:** Hardhat, Foundry, Scaffold-ETH, Ethers.js, Wagmi, Farcaster
+**Also worked with:** Next.js, React, Go, Kotlin, Swift, Flutter, Kubernetes
 
 ---
 
-*Always excited to collaborate on high-stakes financial platforms, blockchain infrastructure, and open-source Web3 projects that prioritize security, compliance, and user trust.*
+## Currently
+
+- Building AI-assisted product verification services (Express, PostgreSQL, Python ML microservices)
+- Extending SuperBridge with more microservices and financial products
+- Writing Rust for blockchain and infrastructure tooling
+- Contributing to open-source Web3 projects
+
+<!-- Optional, only if you want it public:
+**Open to backend engineering opportunities.**
+-->
+
+---
+
+## Get in touch
+
+[Email](mailto:odoch1m3z13@gmail.com) · [LinkedIn](https://www.linkedin.com/in/precious-odo-5494a7297) · [X](https://x.com/odoch1m3z13) · [Farcaster](https://farcaster.xyz/ch1m3z13)
